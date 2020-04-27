@@ -8,10 +8,6 @@
 ## 1. [Определение токсичных комментариев](https://github.com/blanchefort/text_mining/blob/master/toxic_comments.ipynb)
 Задача бинарной классификации текста: разделение комментариев на токсичный / нетоксичный. Нейросеть реализована с помощью фреймворка Flair.
 
-Используемые технологии:
-* Эмбеддинг BPE.
-* Нейронная сеть bidirectional GRU.
-
 ## 2. [Определение тональности текста](https://github.com/blanchefort/text_mining/blob/master/text_sentiment_bpe.ipynb)
 Бинарная классификация комментариев на: положительный / отрицательный. Преобразование текстов в векторное предствление осуществляется с помощью модели Byte Pair Embeddings. Модель реализована на фреймворке Flair.
 
@@ -20,3 +16,6 @@
 
 ## 4. [Классификация текстов с помощью BERT](https://github.com/blanchefort/text_mining/blob/master/bert_classification_to_git.ipynb)
 Мультиклассовая классификация товаров по их названиям с помощью модели RuBert, используя библиотеку Transformers от Huggingface.
+
+## 5. [Выделение именованных сущностей в тексте с помощью BERT](https://github.com/blanchefort/text_mining/blob/master/NER.ipynb)
+Файнтюнинг модели BERT Base для NER-задачи.
