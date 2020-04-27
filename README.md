@@ -14,3 +14,6 @@
 
 ## 2. [Определение тональности текста](https://github.com/blanchefort/text_mining/blob/master/text_sentiment_bpe.ipynb)
 Бинарная классификация комментариев на: положительный / отрицательный. Преобразование текстов в векторное предствление осуществляется с помощью модели Byte Pair Embeddings. Модель реализована на фреймворке Flair.
+
+## 3. [LSTM для POS-разметки текста](https://github.com/blanchefort/text_mining/blob/master/LSTMTagger_MultiBatch_POS_Tagging.ipynb)
+Обучение модели для частеречной разметки текста.
