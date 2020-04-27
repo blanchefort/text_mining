@@ -19,3 +19,6 @@
 
 ## 5. [Выделение именованных сущностей в тексте с помощью BERT](https://github.com/blanchefort/text_mining/blob/master/NER.ipynb)
 Файнтюнинг модели BERT Base для NER-задачи.
+
+## 6. [Динамическая квантизация BERT](https://github.com/blanchefort/text_mining/blob/master/dynamic_quantization_BERT.ipynb)
+Попытка квантизации модели.
