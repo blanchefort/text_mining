@@ -17,3 +17,6 @@
 
 ## 3. [LSTM для POS-разметки текста](https://github.com/blanchefort/text_mining/blob/master/LSTMTagger_MultiBatch_POS_Tagging.ipynb)
 Обучение модели для частеречной разметки текста.
+
+## 4. [Классификация текстов с помощью BERT](https://github.com/blanchefort/text_mining/blob/master/bert_classification_to_git.ipynb)
+Мультиклассовая классификация товаров по их названиям с помощью модели RuBert, используя библиотеку Transformers от Huggingface.
