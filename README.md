@@ -18,4 +18,4 @@
 Мультиклассовая классификация товаров по их названиям с помощью модели RuBert, используя библиотеку Transformers от Huggingface.
 
 ## 5. [Выделение именованных сущностей в тексте с помощью BERT](https://github.com/blanchefort/text_mining/blob/master/NER.ipynb)
-Файнтюнинг модели BERT Base для NER-задачи.
+Дообучение модели BERT Base для NER-задачи.
